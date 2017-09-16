@@ -12,6 +12,8 @@
 7. Jika menjalankan server dengan perintah `npm start` maka port listen nya adalah `3000`.
 
 ### Screenshoot Proyek
-![SS 1](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![SS 1](https://github.com/caturandi-labs/nodejsauth-passport/blob/master/screenshoots/ss1.PNG "Register Page")
 
-![SS 2](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![SS 2](https://github.com/caturandi-labs/nodejsauth-passport/blob/master/screenshoots/ss2.PNG "Login Page")
+
+![SS 2](https://github.com/caturandi-labs/nodejsauth-passport/blob/master/screenshoots/ss3.PNG "Successfully Login")
